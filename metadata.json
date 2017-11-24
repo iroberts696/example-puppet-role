@@ -1,0 +1,15 @@
+{
+  "name": "tthomsen-role",
+  "version": "0.1.0",
+  "author": "tthomsen",
+  "summary": "This is a roles module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/rivethead42/puppet-role.git",
+  "project_page": "https://github.com/rivethead42/puppet-role",
+  "issues_url": "https://github.com/rivethead42/puppet-role/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+

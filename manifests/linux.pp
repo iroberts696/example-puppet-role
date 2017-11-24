@@ -1,4 +1,3 @@
-class	role::linux {
-
-	include ::profile::base
+class role::linux {
+  include ::profile::base
 }
